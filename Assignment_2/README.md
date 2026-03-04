@@ -77,5 +77,5 @@ To Demonstrate and test the ring buffer behavior.
 1. Download the current repo
 2. Through Terminal Window, run these commands: <br>
 `javac Assignment_2/*.java` - To compile all three java files<br>
-`java Assignment_2.Main` - to run the Main function and see Ringbuffer's demonstration
+`java Assignment_2.Main` - To run the Main function and see Ringbuffer's demonstration
 
